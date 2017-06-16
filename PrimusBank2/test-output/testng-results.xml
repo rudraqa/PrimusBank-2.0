@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Suite" duration-ms="116740" started-at="2017-06-15T19:29:17Z" finished-at="2017-06-15T19:31:14Z">
+    <groups>
+    </groups>
+    <test name="smoketest" duration-ms="116740" started-at="2017-06-15T19:29:17Z" finished-at="2017-06-15T19:31:14Z">
+      <class name="Main.NewTest">
+        <test-method status="PASS" signature="AdminDirectUrlAccess()[pri:0, instance:Main.NewTest@39d76cb5]" name="AdminDirectUrlAccess" duration-ms="26721" started-at="2017-06-15T14:29:17Z" finished-at="2017-06-15T14:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminDirectUrlAccess -->
+        <test-method status="PASS" signature="AdminNavigations()[pri:0, instance:Main.NewTest@39d76cb5]" name="AdminNavigations" duration-ms="24983" started-at="2017-06-15T14:29:44Z" finished-at="2017-06-15T14:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminNavigations -->
+        <test-method status="PASS" signature="Adminlogin_InvalidData()[pri:0, instance:Main.NewTest@39d76cb5]" name="Adminlogin_InvalidData" duration-ms="7812" started-at="2017-06-15T14:30:09Z" finished-at="2017-06-15T14:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adminlogin_InvalidData -->
+        <test-method status="PASS" signature="AdminloginwithValidData()[pri:0, instance:Main.NewTest@39d76cb5]" name="AdminloginwithValidData" duration-ms="3269" started-at="2017-06-15T14:30:17Z" finished-at="2017-06-15T14:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminloginwithValidData -->
+        <test-method status="PASS" signature="InvalidNewBranch()[pri:0, instance:Main.NewTest@39d76cb5]" name="InvalidNewBranch" duration-ms="13882" started-at="2017-06-15T14:30:20Z" finished-at="2017-06-15T14:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidNewBranch -->
+        <test-method status="PASS" signature="NewBranch()[pri:0, instance:Main.NewTest@39d76cb5]" name="NewBranch" duration-ms="5680" started-at="2017-06-15T14:30:34Z" finished-at="2017-06-15T14:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewBranch -->
+        <test-method status="PASS" signature="PrimusBankNavigations()[pri:0, instance:Main.NewTest@39d76cb5]" name="PrimusBankNavigations" duration-ms="21885" started-at="2017-06-15T14:30:39Z" finished-at="2017-06-15T14:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrimusBankNavigations -->
+        <test-method status="PASS" signature="datadrivenAdminlogin()[pri:0, instance:Main.NewTest@39d76cb5]" name="datadrivenAdminlogin" duration-ms="12428" started-at="2017-06-15T14:31:01Z" finished-at="2017-06-15T14:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadrivenAdminlogin -->
+      </class> <!-- Main.NewTest -->
+    </test> <!-- smoketest -->
+  </suite> <!-- Smoke Suite -->
+</testng-results>
